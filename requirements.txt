@@ -5,4 +5,4 @@ numpy
 streamlit
 seaborn
 plotly
-streamlit_extras.add_vertical_space
+streamlit_extras
